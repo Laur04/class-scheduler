@@ -1,0 +1,1 @@
+Uses Ion's API to launch all of your classes 5 minutes before they start. Make sure you have `at` installed on your machine and that the atd daemon is running. Run the setup every 30 days (or make an anacron to do it).
